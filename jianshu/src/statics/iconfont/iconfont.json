@@ -1,0 +1,37 @@
+{
+  "id": "2379115",
+  "name": "jianshu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "这里是简书iconfont的仓库",
+  "glyphs": [
+    {
+      "icon_id": "401103",
+      "name": "spin",
+      "font_class": "spin",
+      "unicode": "e851",
+      "unicode_decimal": 59473
+    },
+    {
+      "icon_id": "1621077",
+      "name": "Aa",
+      "font_class": "Aa",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "16367988",
+      "name": "线性羽毛笔",
+      "font_class": "xianxingyumaobi",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "18643947",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
